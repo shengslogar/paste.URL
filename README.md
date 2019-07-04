@@ -10,5 +10,4 @@ Simple Chrome extension to paste and navigate to a copied URL.
 License
 -------
 
-The code contained in this project is licensed under the
-[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
